@@ -1,6 +1,5 @@
 # OS-lab 1
-## _Name: Khaled Tarek Siam_
-## _ID: 7010_
+## Lab Assignment
 
 Contents of the folder are:
 - maindir
